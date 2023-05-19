@@ -1,0 +1,300 @@
+body{
+    font-family: Candara;
+
+}
+.topnav{
+    display: flex;
+   align-items: center;
+    background-color:#272727;
+    list-style: none;
+    color: white;
+    justify-content: space-between;
+}
+
+.topleft{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+
+}
+.logo{
+    width: 100px;
+}
+.menu{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+
+
+}
+.sluzby{
+margin: 10px;
+}
+.šipkauwu{
+    width: 15px;
+}
+.onas{
+    margin: 10px;
+}
+.cenik{
+    margin: 10px;
+}
+.kontakt{
+    margin: 10px;
+}
+
+.topright{
+    display: flex;
+    justify-content: flex-end;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.reserve{
+    background-color:#8c4429;
+padding: 5px;
+    margin: 10px;
+}
+
+
+.toppic{
+width: 100%;
+
+}
+
+
+.nav2{
+
+}
+
+.midtextnav2{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+
+}
+.owo{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.cpic1{
+    border-radius: 100%;
+    width: 140px;
+    background-image:  url("pics/shutterstock_2187648439-q500.jpg");
+    height: 140px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.cpic1text{
+
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.cpic2{
+    border-radius: 100%;
+    width: 140px;
+    background-image:  url("pics/shutterstock_2187648439-q500.jpg");
+    height: 140px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cpic2text{
+color: white;
+}
+.cpic3{
+    border-radius: 100%;
+    width: 140px;
+    background-image:  url("pics/shutterstock_2187648439-q500.jpg");
+    height: 140px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cpic3text{
+color: white;
+}
+.cpic4{
+    border-radius: 100%;
+    width: 140px;
+    background-image:  url("pics/shutterstock_2187648439-q500.jpg");
+    height: 140px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cpic4text{
+color: white;
+}
+
+
+.navpic2{
+margin: 100px;
+    width: 90%;
+
+}
+.textonpic2{
+
+    background-color: rgba(39,39,39,0.77);
+    color: white;
+
+}
+.biggertextonpic{
+
+}
+
+
+.nav3{
+
+}
+
+.midtext3{
+justify-content: center;
+}
+.profiles{
+display: flex;
+    justify-content: space-around;
+}
+.prof{
+background-color: #cacaca;
+}
+.profpic{
+    width: 170px;
+}
+.proftext{
+
+}
+.profbarber{
+
+}
+.profname{
+
+}
+
+.nav4{
+
+}
+.firsttextnav3{
+
+}
+.midtextnav3{
+
+}
+.haircuts{
+
+}
+.hair1{
+
+}
+.hair2{
+
+}
+.hair3{
+
+}
+.hair4{
+
+}
+.hair5{
+
+}
+.hair6{
+
+}
+.botnav4{
+
+}
+.botnavleft{
+
+}
+.picnav4left{
+
+}
+.h1botnav4left{
+
+}
+.textbotnav4left{
+
+}
+.botnavmid{
+
+}
+.picnav4mid{
+
+}
+.h1botnav4mid{
+
+}
+.textbotnav4mid{
+
+}
+.botnavright{
+
+}
+.picnav4right{
+
+}
+.h1botnav4right{
+
+}
+.textbotnav4right{
+
+}
+.botnav{
+background-color: #272727;
+}
+.lastnavleft{
+
+}
+.textlastnavleft{
+
+}
+.lastnavmid{
+
+}
+.h1lastnavMID{
+
+}
+.lastnavmidtext{
+
+}
+.phonenumberlast{
+
+}
+.phonepic{
+width: 20px;
+}
+.maillastnav{
+
+}
+.mailpic{
+    width: 20px;
+}
+.ig{
+    width: 20px;
+}
+.fb{
+    width: 20px;
+}
+.lastnavrigt{
+
+}
+.dnyvtydnubotnav{
+
+}.reservebot{
+     background-color:#8c4429;
+     text-decoration: none;
+     color: white;
+ }
